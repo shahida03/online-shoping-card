@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0nline shoping card", "0nline shoping card\0nline shoping card.csproj", "{0A57AA95-905D-4878-AFC3-245F15A8E236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A57AA95-905D-4878-AFC3-245F15A8E236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A57AA95-905D-4878-AFC3-245F15A8E236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A57AA95-905D-4878-AFC3-245F15A8E236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A57AA95-905D-4878-AFC3-245F15A8E236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E88E40D6-FC9E-415F-9F56-CB1F7A9815B3}
+	EndGlobalSection
+EndGlobal
